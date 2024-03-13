@@ -5,13 +5,13 @@ body{
     background-size: cover;
 }
 h1{
-    color: palegreen;
+    color:palegreen;
     font-size: 60pt;
     font-weight: bolder;
     box-shadow: 10px 10px 10px firebrick;
 }
 h2{
-    color: blueviolet;
+    color:blueviolet;
     font-size: 50pt;
     margin-left: 10px;
     border: 20px solid blue;
@@ -19,7 +19,7 @@ h2{
     box-shadow: 10px 10px 10px khaki;
 }
 h3{
-    color: rgb(187, 14, 28);
+    color:rgb(187, 14, 28);
     font-size: 40pt;
     margin-left: 20px;
     border: 20px solid aquamarine;
@@ -27,7 +27,7 @@ h3{
     box-shadow: 10px 10px 10px rebeccapurple;
 }
 h4{
-    color: rgb(197, 161, 231);
+    color:rgb(197, 161, 231);
     font-size: 30pt;
     margin-left: 30px;
     border: 20px solid sienna;
@@ -35,7 +35,7 @@ h4{
     box-shadow: 10px 10px 10px wheat;
 }
 h5{
-    color: rgb(222, 238, 1);
+    color:rgb(222, 238, 1);
     font-size: 20pt;
     margin-left: 40px;
     border: 20px solid greenyellow;
@@ -43,7 +43,7 @@ h5{
     box-shadow: 10px 10px 10px mediumorchid;
 }
 h6{
-    color: rgb(159, 152, 251);
+    color:rgb(159, 152, 251);
     font-size: 10pt;
     margin-left: 50px;
     border: 20px solid hotpink ;
@@ -51,7 +51,7 @@ h6{
     box-shadow: 10px 10px 10px gold;
 }
  p{
-    color: aquamarine;
+    color:aquamarine;
     font-size: 45pt;
     font-weight: lighter;
  }   
