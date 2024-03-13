@@ -1,5 +1,8 @@
 body{
-    background-image:url(https://зоомагазин.рф/upload/iblock/32d/novorozhdennyy_kotenok_bez_mamy_kak_vykhazhivat.jpg) 
+    background-image:url(https://зоомагазин.рф/upload/iblock/32d/novorozhdennyy_kotenok_bez_mamy_kak_vykhazhivat.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat ;
+    background-size: cover;
 }
 h1{
     color: palegreen;
