@@ -1,8 +1,41 @@
 body{
     background-color: lightsteelblue;
 }
-
-
+h1{
+    color: palegreen;
+    font-size: 60pt;
+    font-weight: bolder;
+}
+h2{
+    color: blueviolet;
+    font-size: 50pt;
+    margin-left: 10px;
+}
+h3{
+    color: rgb(187, 14, 28);
+    font-size: 40pt;
+    margin-left: 20px;
+}
+h4{
+    color: rgb(197, 161, 231);
+    font-size: 30pt;
+    margin-left: 30px;
+}
+h5{
+    color: rgb(222, 238, 1);
+    font-size: 20pt;
+    margin-left: 40px;
+}
+h6{
+    color: rgb(159, 152, 251);
+    font-size: 10pt;
+    margin-left: 50px;
+}
+ p{
+    color: aquamarine;
+    font-size: 100pt;
+    font-weight: lighter;
+ }   
 
 
 
