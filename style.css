@@ -5,7 +5,7 @@ h1{
     color: palegreen;
     font-size: 60pt;
     font-weight: bolder;
-    box-shadow: 0 0 5px firebrick;
+    box-shadow: 10px 10px 10px firebrick;
 }
 h2{
     color: blueviolet;
@@ -13,7 +13,7 @@ h2{
     margin-left: 10px;
     border: 20px solid blue;
     border-radius: 30px;
-    box-shadow: 0 0 5px khaki;
+    box-shadow: 10px 10px 10px khaki;
 }
 h3{
     color: rgb(187, 14, 28);
@@ -21,7 +21,7 @@ h3{
     margin-left: 20px;
     border: 20px solid aquamarine;
     border-radius: 30px;
-    box-shadow: 0 0 5px rebeccapurple;
+    box-shadow: 10px 10px 10px rebeccapurple;
 }
 h4{
     color: rgb(197, 161, 231);
@@ -29,7 +29,7 @@ h4{
     margin-left: 30px;
     border: 20px solid sienna;
     border-radius: 30px;
-    box-shadow: 0 0 5px wheat;
+    box-shadow: 10px 10px 10px wheat;
 }
 h5{
     color: rgb(222, 238, 1);
@@ -37,7 +37,7 @@ h5{
     margin-left: 40px;
     border: 20px solid greenyellow;
     border-radius: 30px;
-    box-shadow: 0 0 5px mediumorchid;
+    box-shadow: 10px 10px 10px mediumorchid;
 }
 h6{
     color: rgb(159, 152, 251);
@@ -45,7 +45,7 @@ h6{
     margin-left: 50px;
     border: 20px solid hotpink ;
     border-radius: 30px;
-    box-shadow: 0 0 5px gold;
+    box-shadow: 10px 10px 10px gold;
 }
  p{
     color: aquamarine;
