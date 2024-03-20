@@ -55,12 +55,13 @@ h6{
     color:aquamarine;
     font-size: 45pt;
     font-weight: lighter;
+    
  }   
 
     
-ul{
+ol{
     background:goldenrod ;
-    list-style: square ;
+    list-style-type: upper-latin;
     padding: 15px;
     margin: 5px;
 }
