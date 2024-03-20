@@ -77,7 +77,10 @@ img{
     border-top-left-radius:50000px ;
     border-bottom-right-radius: 10000px;
 }
-
+.img2{
+    border-radius: 0px;
+    border-bottom-left-radius:90 ;
+}
 
 
 
