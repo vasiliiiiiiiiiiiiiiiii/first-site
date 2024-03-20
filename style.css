@@ -72,8 +72,21 @@ li{
 }
 li:hover{
     background: black;
-
 }
+img{
+    border-top-left-radius:50px ;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
