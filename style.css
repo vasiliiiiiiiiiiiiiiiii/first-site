@@ -61,11 +61,13 @@ h6{
 ul{
     background:goldenrod ;
     list-style: square ;
+    padding: 15px;
+    margin: 5px;
 }
 li{
     background:white;
-
-
+    padding: 10px;
+    margin: 5px;
 }
 
 
