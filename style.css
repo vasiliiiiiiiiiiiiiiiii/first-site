@@ -81,13 +81,37 @@ img{
     border-radius: 0px;
     border-bottom-left-radius:900px ;
 }
-
-
-
-
-
-
-
+#container{
+    width: auto;
+}
+#header{
+    background: skyblue;
+    height: 40px;
+}
+#navigation{
+    background: hotpink;
+    height: 40px;
+}
+#content{
+    background: teal;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sidebar{
+    background: yellowgreen;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+#clear{
+    clear: both;
+}
+#footer{
+    margin-top: 4px;
+    background: khaki;
+    height: 150px;
+}
 
 
 
