@@ -74,8 +74,8 @@ li:hover{
     background: black;
 }
 img{
-    border-top-left-radius:50px ;
-    border-bottom-right-radius: 10px;
+    border-top-left-radius:500px ;
+    border-bottom-right-radius: 1000px;
 }
 
 
