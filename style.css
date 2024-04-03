@@ -59,11 +59,43 @@ header{
 #menu1 ul li ul li:first-child a{
     border-top: 0px;
 }
-
-
-
-
-
+#menu1 ul li a{
+    display: block;
+    padding: 9px 25px 0px 25px;
+    font-size: 14px;
+    line-height: 1.3em;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    height: 36px;
+    box-sizing: border-box;
+    color: white;
+}
+#menu1 ul li ul{
+    position: absolute;
+    top:  36px;
+    left: 0px;
+    display: none;
+    width: 200px;
+    background: #38b6ff;
+}
+#menu1 ul li:hover ul{
+    display: block;
+}
+#menu1 ul li ul li{
+    float: none;
+    width: 100%;
+}
+#menu1 ul li ul li a{
+    display: block;
+    text-transform: none;
+    height: auto;
+    padding: 7px 25px;
+    width: 100%;
+    box-sizing: border-box;
+    border-top: 1px solid white;
+    color: white;
+}
 
 
 
