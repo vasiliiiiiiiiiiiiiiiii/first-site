@@ -27,17 +27,17 @@ header{
     margin: 20px;
 }
 #menu1{
-    position:relative;
+    position: relative;
     display: block;
     width: 100%;
     height: auto;
     z-index: 10;
 }
 #menu1 ul{
-    position:relative;
+    position: relative;
     display: block;
     margin: 0px;
-    padding: 0px;
+    padding: 0;
     width: 100%;
     height: auto;
     list-style: none;
@@ -50,12 +50,11 @@ header{
     content: " ";
 }
 #menu1 ul li{
-    position:relative;
+    position: relative;
     display: block;
-    width: 100%;
     float: left;
     height: auto;
-    z-index: auto;
+    width: auto;
 }
 #menu1 ul li ul li:first-child a{
     border-top: 0px;
