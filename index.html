@@ -5,6 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>first site</title>
     <link rel="stylesheet" href="style.css">
+   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+    <script>
+      $(document).ready(function(){
+        $(".slider").bxSlider();
+      });
+    </script>
+
 </head>
 <body>
      <header> 
@@ -29,6 +40,11 @@
      </header>
 
      <main>
+      <div class="slider">
+         <div>I am a slide.</div>
+         <div>I am another slide.</div>
+       </div>
+       
         <div class="post">
             <img height="250" src="" alt="Card image cap">
          </div>
